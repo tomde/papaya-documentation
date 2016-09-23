@@ -1,4 +1,3 @@
-
 <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-bottom:20pt" src="pictures/Papaya_color_white_bg.png">
 
 # Úvod
