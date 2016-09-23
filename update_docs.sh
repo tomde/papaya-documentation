@@ -13,10 +13,9 @@ rsync -rlzvD -e "ssh" --rsync-path="sudo rsync" --delete-excluded --delete-after
 	--filter "P logs/*" \
 	--exclude "update_docs.sh" \
 	--exclude 'web/' \
-	--exclude '.hg' \
-	--exclude '.hgignore' \
+	--exclude '.git' \
+	--exclude '.gitignore' \
 	./ \
 	$user@planck.qnd.sk:/opt/docs
 
-ssh $user@planck.qnd.sk gitbook build /opt/docs --output=/opt/docs/web
 
