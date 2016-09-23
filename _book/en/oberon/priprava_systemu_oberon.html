@@ -1,0 +1,624 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <title>Príprava systému Oberon · GitBook</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.0">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="priprava.html" />
+    
+    
+    <link rel="prev" href="postup_instalacie_papaya_mobilny_casnik_pre_oberon.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Papaya POS
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../verzie_systemu_papaya/">
+            
+                <a href="../verzie_systemu_papaya/">
+            
+                    
+                    Papaya versions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../instalacia_papaye.html">
+            
+                <a href="../instalacia_papaye.html">
+            
+                    
+                    Installation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../editacia_menu/">
+            
+                <a href="../editacia_menu/">
+            
+                    
+                    Editácia menu
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../editacia_menu/editacie_menu_na_tablete.html">
+            
+                <a href="../editacia_menu/editacie_menu_na_tablete.html">
+            
+                    
+                    Editácie menu na tablete
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../editacia_menu/editacia_menu_cez_web.html">
+            
+                <a href="../editacia_menu/editacia_menu_cez_web.html">
+            
+                    
+                    Editácia menu cez web
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../editacia_menu/import_menu_zo_suboru.html">
+            
+                <a href="../editacia_menu/import_menu_zo_suboru.html">
+            
+                    
+                    Import menu zo súboru
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../vyhladavanie_v_menu/">
+            
+                <a href="../vyhladavanie_v_menu/">
+            
+                    
+                    Vyhľadávanie v menu
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../rezimy_prace/">
+            
+                <a href="../rezimy_prace/">
+            
+                    
+                    Režim práce
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../sprava_uctov/">
+            
+                <a href="../sprava_uctov/">
+            
+                    
+                    Správa účtov
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../sprava_uctov/praca_s_uctom.html">
+            
+                <a href="../sprava_uctov/praca_s_uctom.html">
+            
+                    
+                    Práca s účtom
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../sprava_uctov/praca_s_polozkami_na_ucte.html">
+            
+                <a href="../sprava_uctov/praca_s_polozkami_na_ucte.html">
+            
+                    
+                    Práca s položkami na účte
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../sprava_uctov/platba.html">
+            
+                <a href="../sprava_uctov/platba.html">
+            
+                    
+                    Platba
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../sprava_uctov/rozsirene_moznosti.html">
+            
+                <a href="../sprava_uctov/rozsirene_moznosti.html">
+            
+                    
+                    Rozšírené možnosti
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../sprava_pouzivatelov/">
+            
+                <a href="../sprava_pouzivatelov/">
+            
+                    
+                    Oprávnenia a používatelia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../uctovne_obdobia_a_smeny/">
+            
+                <a href="../uctovne_obdobia_a_smeny/">
+            
+                    
+                    Účtovné obdobia a smeny
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../zalohy_dat/">
+            
+                <a href="../zalohy_dat/">
+            
+                    
+                    Zálohovanie dát
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../periferie/">
+            
+                <a href="../periferie/">
+            
+                    
+                    Periférne zariadenia
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../periferie/bonovacia_tlaciaren.html">
+            
+                <a href="../periferie/bonovacia_tlaciaren.html">
+            
+                    
+                    Bonovacia tlačiareň
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../periferie/fiskalna_tlaciaren.html">
+            
+                <a href="../periferie/fiskalna_tlaciaren.html">
+            
+                    
+                    Fiškálna tlačiareň
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../periferie/skener_ciarovych_kodov.html">
+            
+                <a href="../periferie/skener_ciarovych_kodov.html">
+            
+                    
+                    Skener/čítačka čiarových kódov
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.4" data-path="../periferie/vahy.html">
+            
+                <a href="../periferie/vahy.html">
+            
+                    
+                    Váhy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Mobilný čašník Papaya pre Oberon
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="postup_instalacie_papaya_mobilny_casnik_pre_oberon.html">
+            
+                <a href="postup_instalacie_papaya_mobilny_casnik_pre_oberon.html">
+            
+                    
+                    Inštalácia
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.12.1.1" data-path="priprava_systemu_oberon.html">
+            
+                <a href="priprava_systemu_oberon.html">
+            
+                    
+                    Príprava systému Oberon
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.2" data-path="priprava.html">
+            
+                <a href="priprava.html">
+            
+                    
+                    Príprava Android zariadenia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.3" data-path="aktivacia.html">
+            
+                <a href="aktivacia.html">
+            
+                    
+                    Aktivácia (spárovanie s Oberonom)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="zakupenie_licencie.html">
+            
+                <a href="zakupenie_licencie.html">
+            
+                    
+                    Zakúpenie licencie Papaya Oberon
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Príprava systému Oberon</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="pr&#xED;prava-syst&#xE9;mu-oberon">Pr&#xED;prava syst&#xE9;mu Oberon</h1><ul><li><p><strong>Statick&#xE1; IP:</strong> Po&#x10D;&#xED;ta&#x10D;, na ktorom be&#x17E;&#xED; Oberon mus&#xED; ma&#x165; statick&#xFA; IP adresu.</p></li>
+<li><p><strong>Veria Oberonu:</strong> Minim&#xE1;lna podporovan&#xE1; verzia Oberonu je <strong>Okt&#xF3;ber/2014 SP</strong>.</p></li>
+<li><p><strong>WebSlu&#x17E;ba:</strong> Vytvorenie komunika&#x10D;n&#xE9;ho portu/WebSlu&#x17E;by cez Oberon Center (napr. 20056) s protokolom: &#x201C;Oberon Poklad&#x148;a&#x201D; (detailn&#xFD; postup je mo&#x17E;n&#xE9; n&#xE1;js&#x165; v pr&#xED;ru&#x10D;ke (v &#x201C;Pomocn&#xED;kovi&#x201D;) k syst&#xE9;mu Oberon).</p></li>
+<li><p><strong>Bonovanie:</strong> Je vhodn&#xE9; ma&#x165; vyrie&#x161;en&#xE9; bonovanie (tla&#x10D; na nefi&#x161;k&#xE1;lnu tla&#x10D;iare&#x148;): na bar, do kuchyne, resp. in&#xE9; pr&#xED;pravn&#xE9; miesta v r&#xE1;mci prev&#xE1;dzky.</p></li>
+<li><p><strong>Syst&#xE9;mov&#xFD; pou&#x17E;&#xED;vate&#x13E;:</strong> Treba pozna&#x165; syst&#xE9;mov&#xE9;ho pou&#x17E;&#xED;vate&#x13E;a, resp. in&#xFD; platn&#xFD; login s dostato&#x10D;n&#xFD;mi pr&#xE1;vami pre slu&#x17E;bu cez Oberon Center.</p></li>
+<li><p><strong>Vylep&#x161;enie pou&#x17E;ite&#x13E;nosti:</strong> Pre vylep&#x161;enie pou&#x17E;ite&#x13E;nosti Mobiln&#xE9;ho &#x10D;a&#x161;n&#xED;ka Papaya je vhodn&#xE9; ma&#x165; Oberon nastaven&#xFD; nasledovne:</p><ul><li><p><strong>Menu kateg&#xF3;rie:</strong> Menu polo&#x17E;ky (skladov&#xE9; karty) zaradi&#x165; do menu kateg&#xF3;ri&#xED; (skup&#xED;n) ako napr.: Pivo, Predjedl&#xE1;, Nealko, Mixdrinky, &#x2026;</p></li>
+<li><p><strong>PLU k&#xF3;dy:</strong> Aternat&#xED;vne nastavi&#x165; PLU k&#xF3;dy k jednotliv&#xFD;m menu polo&#x17E;k&#xE1;m pre r&#xFD;chlej&#x161;ie vyh&#x13E;adanie polo&#x17E;iek v menu.</p></li>
+<li><p><strong>Stoly:</strong> Nakonfigurova&#x165; rozlo&#x17E;enie stolov v grafickej konfigur&#xE1;cii do miestnost&#xED;.</p></li>
+<li><p><strong>Farby:</strong> Priradi&#x165; menu polo&#x17E;k&#xE1;m (skladov&#xFD;m kart&#xE1;m) farbu pozadia.</p></li></ul>
+</li></ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="postup_instalacie_papaya_mobilny_casnik_pre_oberon.html" class="navigation navigation-prev " aria-label="Previous page: Inštalácia">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="priprava.html" class="navigation navigation-next " aria-label="Next page: Príprava Android zariadenia">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Príprava systému Oberon","level":"1.12.1.1","depth":3,"next":{"title":"Príprava Android zariadenia","level":"1.12.1.2","depth":3,"path":"oberon/priprava.md","ref":"oberon/priprava.md","articles":[]},"previous":{"title":"Inštalácia","level":"1.12.1","depth":2,"path":"oberon/postup_instalacie_papaya_mobilny_casnik_pre_oberon.md","ref":"oberon/postup_instalacie_papaya_mobilny_casnik_pre_oberon.md","articles":[{"title":"Príprava systému Oberon","level":"1.12.1.1","depth":3,"path":"oberon/priprava_systemu_oberon.md","ref":"oberon/priprava_systemu_oberon.md","articles":[]},{"title":"Príprava Android zariadenia","level":"1.12.1.2","depth":3,"path":"oberon/priprava.md","ref":"oberon/priprava.md","articles":[]},{"title":"Aktivácia (spárovanie s Oberonom)","level":"1.12.1.3","depth":3,"path":"oberon/aktivacia.md","ref":"oberon/aktivacia.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"en","gitbook":"*"},"file":{"path":"oberon/priprava_systemu_oberon.md","mtime":"2015-03-18T11:48:17.000Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2016-09-23T10:01:35.158Z"},"basePath":"..","book":{"language":"en"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
