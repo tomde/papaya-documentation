@@ -5,23 +5,12 @@
 
 Dostala sa vám do rúk **Používateľská príručka systému [Papaya POS](http://www.papayapos.com/)**. Jej cieľom je poskytnúť používateľom - majiteľom predajní, reštaurácií, prevádzkarom, čašníkom - informácie o tom, ako Papayu správne nastaviť a používať.
 
-### Verzia používateľskej príručky
-
-
-- Táto príručka je určená pre **Papaya POS 1.0.?** (November 2014).
-- Najnovšia verzia tejto príručky je vždy dostupná na webe: [docs.papayapos.sk](http://docs.papayapos.sk/).
-
 ### Centrum podpory Papaya
 V prípade nejasností alebo dodatočných otázok je pre vás okrem tejto príručky k dispozícii centrum podpory:
 
-- **E-mail:** contact@qnd.sk
-- **Hotline:** (+421) 905 904 533
-- **Adresa:**
-qnd s.r.o.,
-Karloveská 34,
-831 03,
-Bratislava,
-Slovenská republika
+- **E-mail:** contact@papayapos.com
+- **Hotline SK:** (+421) 905 904 533
+- **Hotline CZ:** (+420) 910 117 855
 
 Váš tím Papaya
 
