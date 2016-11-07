@@ -3,6 +3,14 @@
 * [Papaya POS](README.md)
 * [Verzie systému Papaya POS](verzie_systemu_papaya/README.md)
 * [Inštalácia Papaye](instalacia_papaye.md)
+    * [POS Mini](pos-mini.md)
+        * [Inštalácia Papaya POS Mini](inštalácia-papaya-pos-mini.md)
+            * [Stiahnutie a inštalácia](stiahnutie-a-inštalácia.md)
+            * [Spustenie aplikácie](11----spustenie-aplikácie.md)
+        * [Nastavenie pred začatím používania](nastavenie-pred-začatím-používania.md)
+        * [Predaj – Obsluha aplikácie Papaya POS](predaj-–-obsluha-aplikácie-papaya-pos.md)
+        * Účtovné obdobia a smeny
+        * Zálohovanie dát
 * [Editácia menu](editacia_menu/README.md)
     * [Editácie menu na tablete](editacia_menu/editacie_menu_na_tablete.md)
     * [Editácia menu cez web](editacia_menu/editacia_menu_cez_web.md)
