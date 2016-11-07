@@ -1,6 +1,6 @@
 # Verzie systému Papaya
 
-* **Mini verzia**:  Čerstvo stiahnutá aplikácia [Papaya POS z PlayStoru](https://play.google.com/store/apps/details?id=qnd.papaya.pos) je vždy vo verzií Mini. Mini verzia je tou najjednoduchšou verziou pokladne. Vyskúšať si ju môžete na 30 dní zadarmo, následne je jej používanie spoplatnené. 
+* **Mini verzia**:  BLA Čerstvo stiahnutá aplikácia [Papaya POS z PlayStoru](https://play.google.com/store/apps/details?id=qnd.papaya.pos) je vždy vo verzií Mini. Mini verzia je tou najjednoduchšou verziou pokladne. Vyskúšať si ju môžete na 30 dní zadarmo, následne je jej používanie spoplatnené. 
 * **Pro verzia**:  Ak Vám Mini verzia z funkčného hľadiska nepostačuje, môžete si zakúpiť licenciu vo verzii pre jednu pokladňu \(Pro One\) alebo neobmedzený počet pokladničných miest \(Pro Plus\). Obe varianty Pro verzie ponúkajú plné spektrum funkcionality pre jednoduchšie a prehľadnejšie riadenie akejkoľvek prevádzky. Pre zakúpenie Pro verzie je potrebné nás [kontaktovať](#kúpa-a-inštalácia). 
 * **Pro\/Oberon verzia**: Papaya POS môže byť aktivovaná voči [Papaya serveru](http://papayapos.sk/sk/pro) \(Pro verzia\) alebo voči serveru systému [Oberon](http://www.exalogic.sk/oberon/) \(Oberon verzia\).
 
@@ -32,11 +32,13 @@ Pro verzia je určená pre stredné a veľké prevádzky. Okrem funkcionality po
   * automatickej aktualizácie stavu zásob pomocou receptúr 
   * nastavenia upozornenia na dosiahnutie prednastavenej minimálnej hladiny zásob 
   * prehľadných inventúr
+
 * podrobné prehľady tržieb
   * pre rôzne časové úseky 
   * podľa spôsobu úhrady 
   * po položkách predaja 
   * pre jednotlivé hladiny DPH
+
 * kontrola zamestnancov cez nastavenie užívateľských oprávnení
 * ochrana proti výpadkom signálu vašej Wi-Fi siete
 
