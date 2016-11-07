@@ -2,7 +2,7 @@
 
 # Úvod
 
-Dostala sa vám do rúk **Používateľská príručka systému [Papaya POS](http://www.papayapos.com/)**. Jej cieľom je poskytnúť používateľom - majiteľom predajní, reštaurácií, prevádzkarom, čašníkom - informácie o tom, ako Papayu správne nastaviť a používať.
+Dostala sa vám do ruky **Používateľská príručka systému [Papaya POS](http://www.papayapos.com/)**. Jej cieľom je poskytnúť používateľom - majiteľom predajní, reštaurácií, prevádzkarom, čašníkom - informácie o tom, ako Papayu správne nastaviť a používať.
 
 ### Centrum podpory Papaya
 V prípade nejasností alebo dodatočných otázok je pre vás okrem tejto príručky k dispozícii centrum podpory:
