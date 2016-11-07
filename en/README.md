@@ -3,7 +3,7 @@
 
 # Introduction
 
-You are reading **[Papaya POS](http://www.papayapos.com/) User guide**. It contains instructions how to configure and use Papaya POS system. It aims mainly on restaurant staff, owners, managers, waiters, etc.
+You are  reading **[Papaya POS](http://www.papayapos.com/) User guide**. It contains instructions how to configure and use Papaya POS system. It aims mainly on restaurant staff, owners, managers, waiters, etc.
 This guide is continuosly updated document, please, feel free to contact us in case of any questions.
 
 ### User Guide Version
