@@ -18,5 +18,3 @@ rsync -rlzvD -e "ssh" --rsync-path="sudo rsync" --delete-excluded --delete-after
 	./ \
 	$user@planck.qnd.sk:/opt/docs
 
-ssh $user@planck.qnd.sk gitbook build /opt/docs --output=/opt/docs/web
-
