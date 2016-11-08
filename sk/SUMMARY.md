@@ -9,7 +9,7 @@
             * [Spustenie aplikácie](11----spustenie-aplikácie.md)
         * [Nastavenie pred začatím používania](nastavenie-pred-začatím-používania.md)
         * [Predaj – Obsluha aplikácie Papaya POS](predaj-–-obsluha-aplikácie-papaya-pos.md)
-        * Účtovné obdobia a smeny
+        * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
         * Zálohovanie dát
 * [Editácia menu](editacia_menu/README.md)
     * [Editácie menu na tablete](editacia_menu/editacie_menu_na_tablete.md)
