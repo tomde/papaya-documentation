@@ -23,6 +23,12 @@
                 * [Priradenie kódu menu položke](priradenie-kódu-menu-položke.md)
         * [Predaj – Obsluha aplikácie Papaya POS](predaj-–-obsluha-aplikácie-papaya-pos.md)
             * [Vyhľadávanie v menu](vyhľadávanie-v-menu.md)
+                * [Manuálne](manuálne.md)
+                * [Fulltextovo \(zadaním názvu menu položky\)](fulltextovo-zadaním-názvu-menu-položky.md)
+                * [Zadaním PLU kódu](zadaním-plu-kódu.md)
+                * [Načítaním čiarového kódu](načítaním-čiarového-kódu.md)
+            * [Práca s účtom](práca-s-účtom.md)
+                * [Aktívny účet](aktívny-účet.md)
         * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
         * Zálohovanie dát
         * Predaj – Obsluha aplikácie Papaya POS
