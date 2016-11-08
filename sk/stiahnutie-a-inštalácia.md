@@ -1,4 +1,4 @@
-# Stiahnutie a inštalácia
+## Stiahnutie a inštalácia
 
 Papayu je možné nainštalovať na ľubovoľné mobilné zariadenie \(smartfón, tablet\), na ktorom beží operačný systém Android vo verzii 4.0 alebo vyššej.
 
@@ -11,6 +11,7 @@ Papayu POS Mini si môžete stiahnuť a nainštalovať:
   ![](/assets/Picture1.png)
 
 * prostredníctvom APK súboru, ktorý Vám z Papaya POS zašleme spoločne s podrobnými inštrukciami pre inštaláciu.
+
 
 Proces inštalácie zvládnete úplne sami a zaberie Vám nanajvýš niekoľko minút – ak by ste narazili na akýkoľvek problém, [neváhajte sa na nás obrátiť](#Centra).
 

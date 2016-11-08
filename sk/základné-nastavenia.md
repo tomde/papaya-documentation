@@ -1,0 +1,2 @@
+## Základné nastavenia
+
