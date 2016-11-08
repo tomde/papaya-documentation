@@ -16,9 +16,16 @@
                 * [Nastavenie trhu \/ meny \/ jazyka](nastavenie-trhu--meny--jazyka.md)
             * [Nastavenia predajného menu](nastavenia-predajného-menu.md)
                 * [Vytvorenie novej menu kategórie \/ položky](vytvorenie-novej-menu-kategórie--položky.md)
+                * [Úprava existujúcej menu kategórie \/ položky](úprava-existujúcej-menu-kategórie--položky.md)
+                * [Odstránenie menu kategórie \/ položky](odstránenie-menu-kategórie--položky.md)
+                * [Poradie kategórií \/ položiek](poradie-kategórií--položiek.md)
+                * [Farba kategórií \/ položiek](farba-kategórií--položiek.md)
+                * [Priradenie kódu menu položke](priradenie-kódu-menu-položke.md)
         * [Predaj – Obsluha aplikácie Papaya POS](predaj-–-obsluha-aplikácie-papaya-pos.md)
+            * [Vyhľadávanie v menu](vyhľadávanie-v-menu.md)
         * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
         * Zálohovanie dát
+        * Predaj – Obsluha aplikácie Papaya POS
 * [Editácia menu](editacia_menu/README.md)
     * [Editácie menu na tablete](editacia_menu/editacie_menu_na_tablete.md)
     * [Editácia menu cez web](editacia_menu/editacia_menu_cez_web.md)
