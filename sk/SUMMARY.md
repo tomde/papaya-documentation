@@ -29,6 +29,14 @@
                 * [Načítaním čiarového kódu](načítaním-čiarového-kódu.md)
             * [Práca s účtom](práca-s-účtom.md)
                 * [Aktívny účet](aktívny-účet.md)
+                * [Vytvorenie nového účtu](vytvorenie-nového-účtu.md)
+                * [Vlastník účtu](vlastník-účtu.md)
+                * [Stav účtu](stav-účtu.md)
+                * [Priradenie účtu k stolu](priradenie-účtu-k-stolu.md)
+                * [Názov účtu](názov-účtu.md)
+                * [Zrušenie účtu](zrušenie-účtu.md)
+            * [Práca s položkami na účte](práca-s-položkami-na-účte.md)
+                * [Pridanie novej položky na účet](pridanie-novej-položky-na-účet.md)
         * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
         * Zálohovanie dát
         * Predaj – Obsluha aplikácie Papaya POS
