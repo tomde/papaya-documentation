@@ -6,7 +6,7 @@ Položky sa pridávajú na účet kliknutím na položku v menu. Ak nie je v ča
 
 Rýchlim kliknutím na menu položku pridáte 1 kus položky na aktívny účet.
 
-
+![](/assets/Nova_polozka_na_ucet.png)
 
 #### Dlhšie podržanie položky v menu
 
