@@ -53,7 +53,6 @@
             * [Otvorenie \/ uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
             * [Prehľady](prehľady.md)
         * [Zálohovanie dát](zálohovanie-dát.md)
-        * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
 * [Editácia menu](editacia_menu/README.md)
     * [Editácie menu na tablete](editacia_menu/editacie_menu_na_tablete.md)
     * [Editácia menu cez web](editacia_menu/editacia_menu_cez_web.md)
