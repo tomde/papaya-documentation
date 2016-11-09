@@ -16,6 +16,7 @@ Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
   * Elcom [Euro-50 Mini](http://www.elcom.eu/produkty/registracne-pokladnice/euro-50t-mini/)
 
 
+
 * **Bowa**
 
 * * Bowa [Pegas FM-06](http://www.bowa.sk/e-shop/cid/31/category/pultove.xhtml)
@@ -43,8 +44,8 @@ Pre pripojenie fiskálnej tlačiarne postupujte nasledovne:
   * **názov** tlačiarne \(nepovinné\).
 
 
-5. Stlačte tlačidlo **Pridať tlačiareň**.
 
+1. Stlačte tlačidlo **Pridať tlačiareň**.
 
 Po vykonaní týchto krokov bude Papaya pripojená k zvolenej tlačiarni a umožní Vám tak po uzavretí účtu tlačiť bločky.
 
@@ -60,7 +61,7 @@ _Bluetooth tlačiareň pripojíte k Vášmu Android zariadeniu rovnako ako akék
 
 #### _Pripojenie USB tlačiarne_
 
-_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete _[_USB OTG redukciu_](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)_, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
+_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete __[USB OTG redukciu](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)__, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
 
 #### Súčasná legislatíva o fiskálnych tlačiarňach
 
@@ -72,9 +73,11 @@ Relevantné zákony:
 
 [                  Zákon č.289\/2008 Z.z. o ERP](http://jaspi.justice.gov.sk/jaspiw1/index_jaspi0.asp?FIR=demo&JEL=n&AGE=zak&IDC=289/2008)
 
-                  Novela zákona č. 504 \/ 2009 Z. z.
+```
+              Novela zákona č. 504 \/ 2009 Z. z.
 
-                  Novela zákona č. 494\/2010 Z. z.
+              Novela zákona č. 494\/2010 Z. z.
+```
 
 Viac informácií o používaní elektronických registračných pokladníc [na stránkach Finančného riaditeľstva SR](https://www.financnasprava.sk/sk/podnikatelia/dane/pouzivanie-ERP).
 
@@ -88,7 +91,7 @@ Tip: Prečítajte si aj o [ostatných spôsoboch vyhľadávania](#_Vyhľadávani
 
 Papaya podporuje mnoho typov čítačiek. Tie sa k Vášmu Android zariadeniu obvykle pripájajú pomocou Bluetooth alebo USB – kvôli pohodlnosti a častej nekompatibilite USB pripojenia s mnohými Android zariadení Vám však rozhodne odporúčame zvoliť si čítačku pripojiteľnú cez Bluetooth. V prípade, že máte záujem o pripojenie špecifického typu čítačky, kontaktujte [podporu Papaya pre overenie kompatibility](#Centra).
 
-Pripájanie čítačky k vášmu zariadeniu funguje podobne ako v prípade tlačiarní \(viz vyššie\). Na rozdiel od fiskálnej tlačiarne však čítačku nie je nutné vyhľadávať v **Nastaveniach** Papaye – používať ju môžete začať hneď, ako ju pripojíte k Vášmu tabletu \/ smartfónu.
+Pripájanie čítačky k vášmu zariadeniu funguje podobne ako v prípade tlačiarní \(viď vyššie\). Na rozdiel od fiskálnej tlačiarne však čítačku nie je nutné vyhľadávať v **Nastaveniach** Papaye – používať ju môžete začať hneď, ako ju pripojíte k Vášmu tabletu \/ smartfónu.
 
-Pozor: Čítačka sa po pripojení k Android zariadeniu niekedy tvári ako externá klávesnica. Ak Vás na to Váš tablet \/ smartfón upozorní zobrazením ikonky klávesnice v notifikačnej lište, je potrebné v nastaveniach Androidu vypnúť hárdvérovú klávesnicu. V opačnom prípade sa Vám čítačka v aplikácii Papaya nezobrazí. Hárdvérová klávesnica sa vypína v obrazovke **Nastavenia** \(Settings\) &gt; **Jazyk a vstup** \(Language & input\) &gt; **Predvolená hodnota** \(Default\).
+**Pozor:** Čítačka sa po pripojení k Android zariadeniu niekedy tvári ako externá klávesnica. Ak Vás na to Váš tablet \/ smartfón upozorní zobrazením ikonky klávesnice v notifikačnej lište, je potrebné v nastaveniach Androidu vypnúť hardvérovú klávesnicu. V opačnom prípade sa Vám čítačka v aplikácii Papaya nezobrazí. Hardvérová klávesnica sa vypína v obrazovke **Nastavenia** \(Settings\) &gt; **Jazyk a vstup** \(Language & input\) &gt; **Predvolená hodnota** \(Default\).
 

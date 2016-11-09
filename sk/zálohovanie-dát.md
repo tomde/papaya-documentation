@@ -8,7 +8,8 @@ Papaya POS Mini archivuje všetky Vaše nastavenia i záznamy priamo na Vašom A
 
 3. V zobrazenom dialógu vyplňte požadované údaje o Vašej prevádzke
 
-4. Následne kliknit e na tlačidlo **Uložiť a spustiť zálohu**
+4. Následne kliknite na tlačidlo **Uložiť a spustiť zálohu**
+
 
 \(screenshot – všetky relevantné obrazovky\)
 
