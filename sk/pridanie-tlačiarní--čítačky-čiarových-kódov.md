@@ -29,7 +29,9 @@ Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
 
 Pre pripojenie fiskálnej tlačiarne postupujte nasledovne:
 
-1. Zapojte tlačiareň do zdieľanej [WiFi](#sieťovej) siete alebo ju pripojte k Vášmu Android zariadeniu cez Bluetooth[\[ZV1\]](#_msocom_1) alebo [USB](#USB) port . V prípade tlačiarne využívajúcej pripojenie cez Bluetooth sa uistite, že [Bluetooth](#Bluetooth) je zapnutý na tlačiarni i na Android zariadení.
+1. Zapojte tlačiareň do zdieľanej [WiFi](#sieťovej) siete alebo ju pripojte k Vášmu Android zariadeniu  cez [Bluetooth ](#_Pripojenie_Bluetooth_tlačiarne)alebo 
+
+  [USB](#USB) port . V prípade tlačiarne využívajúcej pripojenie cez Bluetooth sa uistite, že [Bluetooth](#Bluetooth) je zapnutý na tlačiarni i na Android zariadení.
 
 2. Otvorte obrazovku **Nastavenia &gt; Fiskálne tlačiarne**
 
@@ -61,7 +63,7 @@ _Bluetooth tlačiareň pripojíte k Vášmu Android zariadeniu rovnako ako akék
 
 #### _Pripojenie USB tlačiarne_
 
-_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete __[USB OTG redukciu](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)__, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
+_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete _[**_USB OTG redukciu_**](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)_, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
 
 #### Súčasná legislatíva o fiskálnych tlačiarňach
 

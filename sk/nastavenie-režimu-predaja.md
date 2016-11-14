@@ -14,5 +14,7 @@ Režim otvorených účtov je určený pre reštauračné zariadenia. Počíta s
 
 Papaya v režime otvorených účtov zobrazí vždy pre vytvorením nového účtu okno, na ktorom viete účtu priradiť stôl alebo zadať jeho názov. Účet môžete po vytvorení opustiť a priebežne naň pridávať ďalšie položky v súlade s objednávkami Vašich zákazníkov. Po celú dobu obsluhy zákazníka je účet otvorený a uzavriete ho až v momente, keď Vás zákazník požiada o jeho úhradu.
 
-Priradenie účtu ku stolu či jeho pomenovanie nie je povinné ani v prípade režimu otvorených účtov - viď. tlačidlo **Účet bez stola **\(screenshot-----------------------------------------------\). Navyše je tieto informácie možné i dodatočne zmeniť.
+Priradenie účtu ku stolu či jeho pomenovanie nie je povinné ani v prípade režimu otvorených účtov - viď. tlačidlo **Účet bez stola**. Navyše je tieto informácie možné i dodatočne zmeniť.
+
+![](/assets/bez_stolu2.png)
 
