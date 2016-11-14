@@ -14,5 +14,12 @@ Tip: Prečítajte si o tom, ako [pripojiť čítačku k tabletu\/mobilu](#_Pripo
 
 * Ak preferujete používať primárne tento spôsob vyhľadávania, môžete ho uzamknúť kliknutím na ikonku **Zámky** \(naľavo od poľa pre zadávanie vyhľadávaného čiarového kódu“\). Ak nie je vyhľadávanie cez čiarový kód uzamknuté, režim vyhľadávania sa po pridaní položky vyhľadanej cez čiarový kód na účet automaticky prepne naspäť na manuálne vyhľadávanie.
 
-  ![](/assets/Nacitanie_ciarov_kodu.png)
+
+Krok 1.
+
+![](/assets/start 3.png)
+
+Krok 2.
+
+![](/assets/ean.png)
 

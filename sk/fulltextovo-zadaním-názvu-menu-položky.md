@@ -13,4 +13,11 @@ Menu položky môžete v Papayi vyhľadávať fulltextovo, t.j. zadaním názvu 
 * Ak preferujte používať primárne tento spôsob vyhľadávania, môžete ho uzamknúť kliknutím na ikonku **Zámky** \(naľavo od poľa pre zadávanie vyhľadávaného textu\). Ak nie je fulltextové vyhľadávanie uzamknuté, režim vyhľadávania sa po pridaní fulltextovo vyhľadanej menu položky na účet automaticky prepne naspäť na manuálne vyhľadávanie.
 
 
-![](/assets/Vyhladavanie.png)
+Krok 1.
+
+![](/assets/start.png)
+
+Krok 2.
+
+![](/assets/fulltext.png)
+

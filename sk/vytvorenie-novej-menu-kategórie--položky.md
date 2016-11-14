@@ -2,7 +2,7 @@
 
 V **Editácii menu** kliknite na ikonku **Nová kategória** alebo **Nová položka** v hornej časti obrazovky. Zobrazí sa formulár.
 
-![](/assets/Vytvaranie_kategorie.png)
+![](/assets/add_item.png)
 
 Pri vytváraní novej kategórie je vo formulári potrebné iba:
 
@@ -10,14 +10,10 @@ Pri vytváraní novej kategórie je vo formulári potrebné iba:
 
 2. Nastaviť jej farbu – kliknite na ikonku **Palety** vedľa názvu kategórie a zvoľte farbu
 
-3. Po vyplnení kliknúť na ikonku **Potvrdiť** pre uloženie vykonaných zmien. [\[ZV1\]](#_msocom_1)
+3. Po vyplnení kliknúť na ikonku **Potvrdiť** pre uloženie vykonaných zmien. 
 
 
----
-
- [\[ZV1\]](#_msoanchor_1)v tomto formate nikdy nic nevysvetlujeme, vsade inde sa pouzivaju bullet pointy. prosim, davaj si pozor, aby vsade boli zjednotene styly. Edit - uz som to prerobila, sprav to tak prosim i s formularom pre novu polozku.
-
-![](/assets/Vytvaranie_položky.png)
+![](/assets/edit_category.png)
 
 Pri vytváraní novej položky je vo formulári potrebné:
 
@@ -35,7 +31,7 @@ Pri vytváraní novej položky je vo formulári potrebné:
 
 7. Pridať [PLU kód](#_Zadaním_PLU_kódu) k položke. Toto nie je povinné nastavenie, ale má význam, ak PLU kódy vo Vašej prevádzke využívate.
 
-8. Pridať [čiarový kód](#_Načítaním_čiarového_kódu) [\[ZV1\]](#_msocom_1) k položke. Opäť nejde o povinné nastavenie – je dôležité v prípade, že vo Vašej prevádzke pre pridanie na účet využívate čítačku čiarových kódov.
+8. Pridať [čiarový kód](#_Načítaním_čiarového_kódu) k položke. Opäť nejde o povinné nastavenie – je dôležité v prípade, že vo Vašej prevádzke pre pridanie na účet využívate čítačku čiarových kódov.
 
 9. Nastaviť receptúru, aby bolo pri predaji položky možné automaticky upraviť stav skladových zásob. Túto možnosť však Papaya POS ponúka iba vo verziách **Pro One** alebo **Pro Plus**, ktoré obsahujú i funkcionalitu riadenia skladových zásob.
 
@@ -43,9 +39,6 @@ Pri vytváraní novej položky je vo formulári potrebné:
 
 11. Po ukončení vytvárania novej položky kliknite na ikonku **Potvrdiť**, aby sa vykonané zmeny uložili.
 
-  ![](/assets/Vytvaranie_položky2.png)
+  ![](/assets/edit_item_1.png)
 
----
-
- [\[ZV1\]](#_msoanchor_1)hyperlink!
 

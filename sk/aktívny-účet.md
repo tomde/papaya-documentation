@@ -13,4 +13,15 @@ Aktívny účet je taký účet,
 4. ktorého základné informácie - názov, suma - sú neustále viditeľné v hlavičke.
 
 
-![](/assets/Aktivny_ucet.png)
+Krok 1.
+
+
+
+Krok 2.
+
+
+
+Krok 3.
+
+
+

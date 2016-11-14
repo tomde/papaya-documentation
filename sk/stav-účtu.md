@@ -1,10 +1,12 @@
 ### Stav účtu
 
-Zoznam účtov sa Vám zobrazí po výbere položky **Účty**. \(screenshot--------------------------------------------\)
+Zoznam účtov sa Vám zobrazí po výbere položky **Účty**. 
+
+sreeeeeeeeeeen
 
 V zozname účtov si môžete nastaviť filter, pomocou ktorého určíte, ktoré účty sa Vám majú zobrazovať na základe svojho stavu.
 
-![](/assets/Stav_uctov.png)
+![](/assets/filter.png)
 
 Rôzne „stavy“ účtu sú vysvetlené nižšie:
 
@@ -18,9 +20,7 @@ Rôzne „stavy“ účtu sú vysvetlené nižšie:
 
 **Zaparkovaný \(5\)** – Účet s odloženou úhradou. Používateľ takýto účet vytvorí tým, že po kliknutí na ikonku **Peňazí** na otvorenom účte nezadá platbu, ale klikne na ikonku **Hodín**. Takýto účet je v zozname účtov označený „prázdnou“ ikonkou **Check**. V budúcnosti je taký účet možné pri prijatí platby štandardne uzavrieť, čím sa jeho stav zmení na **Uzavretý**.
 
-
-
 V zozname účtov sa Vám ikonka popisujúca stav účtu zobrazí vždy napravo.
 
-![](/assets/Stav_uctov2.png)
+![](/assets/state.png)
 
