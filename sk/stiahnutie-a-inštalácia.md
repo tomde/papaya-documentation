@@ -1,9 +1,5 @@
 ## Stiahnutie a inštalácia
 
-Papayu je možné nainštalovať na ľubovoľné mobilné zariadenie \(smartfón, tablet\), na ktorom beží operačný systém Android vo verzii 4.0 alebo vyššej.
-
-Papayu naopak nie je možné nainštalovať na zariadenia s iným typom operačného systému, napr. iOS alebo Windows Mobile.
-
 Papayu POS Mini si môžete stiahnuť a nainštalovať:
 
 * z Obchodu Google Play [priamo tu](https://play.google.com/store/apps/details?id=qnd.papaya.pos) alebo prostredníctvom vyhľadania aplikácie podľa kľúčových slov **PAPAYA POS**. Po zobrazení stránky s aplikáciou jednoducho zvoľte **Inštaláciu a spustenie\/Otvorenie aplikácie**.
