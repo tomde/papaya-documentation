@@ -9,4 +9,5 @@ Položku na účte je možné zrušiť iba v prípade, ak sa nachádza na [otvor
 3. Kliknite na tlačidlo **Zrušiť položku**.
 
 
-![](/assets/Zrusenie_polozky.png)
+![](/assets/del 2.png)
+

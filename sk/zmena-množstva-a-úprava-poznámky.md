@@ -4,7 +4,13 @@ Pri každej položke sa na účte zobrazuje okrem jej názvu a ceny aj **Objedna
 
 Množstvo a poznámku položky na účte možno upraviť dlhším podržaním položky na účte. Zobrazí sa okno, v ktorom viete detailne upraviť údaje danej položky. Množstvo násobí cenu položky na účte.
 
-![](/assets/Poznamky1.png)
+Krok 1.
+
+![](/assets/del.png)
+
+Krok 2.
+
+![](/assets/longpress.png)
 
 Na úpravu množstva položiek na účte má Papaya k dispozícii aj alternatívny spôsob, ktorý je oproti predošlému rýchlejší, ak chcete pridať na účet iba zopár položiek:
 
@@ -15,4 +21,15 @@ Na úpravu množstva položiek na účte má Papaya k dispozícii aj alternatív
 3. Zobrazia sa tlačidla** +\/-**, ktorými môžete počet pohodlne meniť.
 
 
-![](/assets/Poznamky2.png)
+Krok 1.
+
+![](/assets/quick_plus1.png)
+
+Krok 2.
+
+![](/assets/quick_plus2.png)
+
+Krok 3.
+
+![](/assets/quick_plus3.png)
+

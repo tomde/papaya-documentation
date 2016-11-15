@@ -13,11 +13,10 @@ Presúvať položky medzi účtami môžete len v prípade [otvorených účtov]
   * Ak máte z konkrétnej položky na účte viacero kusov a chcete presunúť len istý počet z nich, kliknite na danú položku samostatne a tlačidlo **Presunúť na nový účet** v dolnej časti obrazovky podržte dlhšie. Zobrazí sa okienko, do ktorého zadáte počet kusov z položky, ktorý chcete presunúť na nový účet a potvrďte.
 
 
-3. Systém Vás vyzve, aby ste vybrali stôl pre nový účet – vyberte stôl alebo otvorte nový účet bez stola a voľbu potvrďte.
 
-4. Týmto sa presuniete sa na nový účet, kam sa presunula\/i vybraná\/é položky. Nový účet môžete nechať uhradiť a uzatvoriť ho. V prípade, že naň potrebujete presunúť ďalšie položky z pôvodného účtu, vráťte sa na pôvodný účet a pokračujte postupom **Pre presunutie položky na existujúci**[\[ZV1\]](#_msocom_1)** účet** nižšie.
+1. Systém Vás vyzve, aby ste vybrali stôl pre nový účet – vyberte stôl alebo otvorte nový účet bez stola a voľbu potvrďte.
 
-
+2. Týmto sa presuniete sa na nový účet, kam sa presunula\/i vybraná\/é položky. Nový účet môžete nechať uhradiť a uzatvoriť ho. V prípade, že naň potrebujete presunúť ďalšie položky z pôvodného účtu, vráťte sa na pôvodný účet a pokračujte postupom **Pre presunutie položky na existujúci účet** nižšie.
 
 
 **Pre presunutie položky na existujúci účet**:
@@ -30,10 +29,7 @@ Presúvať položky medzi účtami môžete len v prípade [otvorených účtov]
 
 4. Zobrazí sa Vám zoznam otvorených účtov, z ktorého si vyberte účet, kam chcete položky presunúť.
 
+  ![](/assets/moveto1.png)
 
----
-
- [\[ZV1\]](#_msoanchor_1)Hyuperlink na danu sekciu
-
-NAOZAJ TEN OBRAZOK? 31 strana world
+  ![](/assets/moveto_existing.png)
 
