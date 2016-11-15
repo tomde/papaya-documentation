@@ -4,8 +4,9 @@ Platobný dialóg umožňuje účet uhradiť i kombináciou viacerých spôsobov
 
 1. Kliknite na účte na ikonku **Peňazí** pre zobrazenie platobného dialógu.
 
-2. Vyberte jeden zo spôsobov platby, ktoré chce zákazník použiť \(screenshot\).
+2. Vyberte jeden zo spôsobov platby, ktoré chce zákazník použiť.
 
+  ![](/assets/pay_choices3.png)
 3. Následne v danom riadku kliknite na sumu platby. Automaticky sa zobrazí celková suma účtu, túto však možno upraviť na nižšiu čiastku zvolenú zákazníkom. Zadanú čiastku potvrďte kliknutím na tlačidlo **Šípky** na spodku obrazovky.
 
 4. Potvrdením čiastky sa dostanete naspäť do platobného dialógu. Vyberte ďalší spôsob platby, ktorý chce zákazník použiť.
