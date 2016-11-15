@@ -11,7 +11,7 @@ Papaya POS Mini archivuje všetky Vaše nastavenia i záznamy priamo na Vašom A
 4. Následne kliknite na tlačidlo **Uložiť a spustiť zálohu**
 
 
-\(screenshot – všetky relevantné obrazovky\)
+![](/assets/menu.png)
 
 **Pozor: **Záloha dát na cloudovej služby neprebieha automaticky, je nutné o ňu zažiadať manuálne zakaždým zvlášť. Odporúčame Vám vyššie uvedený postup pravidelne opakovať, aby ste v prípade straty či poškodenia Vášho Android zariadenia neprišli.
 

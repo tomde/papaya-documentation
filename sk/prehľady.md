@@ -12,9 +12,8 @@ Papaya archivuje všetky smeny i účtovné obdobia, ktoré boli v minulosti uza
 
   * Rozpis tržieb za dané účtovné obdobie podľa spôsobu úhrady \(tj. hotovosť, karta, gastrolístky či platba do spotreby\)
 
+    ![](/assets/view_obdobie.png)
 
-
-                               Screenshot ----------------
 
 #### Prehľad tržieb za konkrétnu smenu
 
@@ -25,5 +24,5 @@ Papaya archivuje všetky smeny i účtovné obdobia, ktoré boli v minulosti uza
 3. Kliknutím na ňu sa Vám zobrazí rozpis tržieb za danú smenu podľa spôsobu úhrady \(tj. hotovosť, karta, gastrolístky či platba do spotreby\)
 
 
-                               screenshot-------------------------
+ ![](/assets/view_smena_detail.png)
 

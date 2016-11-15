@@ -23,10 +23,10 @@ Po ukončení smeny zamestnanec spravidla odovzdá prijatú hotovosť vedúcemu 
 
   * Zvoľte smenu, ktorú chcete uzavrieť a kliknite na ikonku **Šípky **na konci jej riadku
 
+    ![](/assets/homescreen1.png)
+
   * V zobrazenom dialógu potvrďte tlačidlo **Uzavrieť smenu**
-
-
-                               screenshot \(všetky tri obrazovky---------------------\)
+    ![](/assets/smena.png)
 
 * Smenu je nutné uzavrieť **manuálne**. Tj, pokiaľ na konci dňa smena nebola uzavretá, účty zatvárané nasledujúci deň budú pripísané k tej istej smene.
 

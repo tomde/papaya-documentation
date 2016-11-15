@@ -4,8 +4,13 @@ Ak vybraným zákazníkom chcete umožniť odloženie úhrady účtu na neskôr,
 
 1. Kliknite na účte na ikonku **Peňazí** pre zobrazenie platobného dialógu.
 
-2. . Miesto výberu spôsobu platby kliknite na ikonku **Hodín** v ľavom dolnom rohu \(screenshot----------------------\).
+2. Miesto výberu spôsobu platby kliknite na ikonku **Hodín** v ľavom dolnom rohu.
+
+  ![](/assets/pay_choices2.png)
+
+Týmto ste zmenili stav účtu na **Zaparkovaný**. Účet je možné kedykoľvek v budúcnosti uhradiť a zmeniť tak jeho stav na **Uzavretý**.
+
+SREEEEEEEEEEEEN
 
 
-Týmto ste zmenili stav účtu na **Zaparkovaný** \(screenshot--------------------\). Účet je možné kedykoľvek v budúcnosti uhradiť a zmeniť tak jeho stav na **Uzavretý**.
 

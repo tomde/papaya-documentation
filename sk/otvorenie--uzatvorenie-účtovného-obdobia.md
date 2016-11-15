@@ -16,12 +16,14 @@
 
 * Účtovné obdobie sa uzatvára v **Nastaveniach** &gt; **Účtovné obdobia a smeny**.
 
-* * Kliknite na ikonku **Šípky** na konci riadku prebiehajúceho účtovného obdobia – je prvé na zozname účtovných období
+* * Kliknite na ikonku **Šípky** na konci riadku prebiehajúceho účtovného obdobia – je prvé na zozname účtovných období alebo na tlačídlo Uzavrieť účetné obdobie.
+
+    ![](/assets/homescreen2.png)
 
   * Následne potvrďte tlačidlo **Uzavrieť účtovné obdobie**
 
+    ![](/assets/obdobie.png)
 
-                screenshot \(všetky tri obrazovky\)
 
 * Uzavretím účtovného obdobia sa uzavrú aj všetky smeny, ktoré do obdobia spadajú, ak ešte neboli uzatvorené samostatne.
 
