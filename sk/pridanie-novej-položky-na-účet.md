@@ -6,11 +6,17 @@ Položky sa pridávajú na účet kliknutím na položku v menu. Ak nie je v ča
 
 Rýchlim kliknutím na menu položku pridáte 1 kus položky na aktívny účet.
 
-![](/assets/Nova_polozka_na_ucet.png)
+![](/assets/add_item2.png)
 
 #### Dlhšie podržanie položky v menu
 
 Po dlhšom podržaní menu položky sa zobrazí okno, ktoré je určené na zadanie počtu položiek, prípadne na zadanie poznámky k objednávke \(napríklad informácia „s ľadom a citrónom“\).
 
-\(screenshot------------------------------\).
+Krok 1.
+
+![](/assets/del.png)
+
+Krok 2.
+
+![](/assets/longpress.png)
 

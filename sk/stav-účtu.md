@@ -1,8 +1,8 @@
 ### Stav účtu
 
-Zoznam účtov sa Vám zobrazí po výbere položky **Účty**. 
+Zoznam účtov sa Vám zobrazí po výbere položky **Účty **alebo potiahnutím obrazovky doľava. 
 
-sreeeeeeeeeeen
+![](/assets/list 2.png)
 
 V zozname účtov si môžete nastaviť filter, pomocou ktorého určíte, ktoré účty sa Vám majú zobrazovať na základe svojho stavu.
 

@@ -15,13 +15,9 @@ Aktívny účet je taký účet,
 
 Krok 1.
 
-
+![](/assets/add_item2.png)
 
 Krok 2.
 
-
-
-Krok 3.
-
-
+![](/assets/bills_list.png)
 

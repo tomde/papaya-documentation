@@ -42,7 +42,7 @@
                 * [Zrušenie položky](zrušenie-položky.md)
             * [Platba \(Uzatvorenie účtu\)](platba-uzatvorenie-účtu.md)
                 * [Úhrada účtu a tlač účtenky](úhrada-účtu-a-tlač-účtenky.md)
-                * Kombinovaná platba
+                * [Kombinovaná platba](kombinovaná-platba.md)
                 * [Odloženie úhrady](odloženie-úhrady.md)
                 * [Rozdelenie účtu](rozdelenie-účtu.md)
                 * [Zľavy a prirážky](zľavy-a-prirážky.md)
