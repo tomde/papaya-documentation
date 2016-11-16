@@ -1,6 +1,6 @@
 ### Odloženie úhrady
 
-Ak vybraným zákazníkom chcete umožniť odloženie úhrady účtu na neskôr, môžete tak urobiť tzv. ,,**Zaparkovaním účtu**“. Pre využitie tejto možnosti postupujte nasledovne:
+Ak vybraným zákazníkom chcete umožniť odloženie úhrady účtu na neskôr, môžete tak urobiť tzv. ,,**Neuhradením účtu**“. Pre využitie tejto možnosti postupujte nasledovne:
 
 1. Kliknite na účte na ikonku **Peňazí** pre zobrazenie platobného dialógu.
 
@@ -8,9 +8,8 @@ Ak vybraným zákazníkom chcete umožniť odloženie úhrady účtu na neskôr,
 
   ![](/assets/pay_choices2.png)
 
-Týmto ste zmenili stav účtu na **Zaparkovaný**. Účet je možné kedykoľvek v budúcnosti uhradiť a zmeniť tak jeho stav na **Uzavretý**.
 
-SREEEEEEEEEEEEN
+Týmto ste zmenili stav účtu na **Neuhradený**. Účet je možné kedykoľvek v budúcnosti uhradiť a zmeniť tak jeho stav na **Uzavretý**.
 
-
+![](/assets/state 2.png)
 

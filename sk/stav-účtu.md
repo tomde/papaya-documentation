@@ -1,6 +1,6 @@
 ### Stav účtu
 
-Zoznam účtov sa Vám zobrazí po výbere položky **Účty **alebo potiahnutím obrazovky doľava. 
+Zoznam účtov sa Vám zobrazí po výbere položky **Účty **alebo potiahnutím obrazovky doľava.
 
 ![](/assets/list 2.png)
 
@@ -18,7 +18,7 @@ Rôzne „stavy“ účtu sú vysvetlené nižšie:
 
 **Nevytlačený \(4\)** – K účtu sa nepodarilo vytlačiť účtenku \(napr. z dôvodu nesprávne zapojenej tlačiarne či chýbajúcej pásky\). Takýto účet bude v zozname označený ikonkou** Červenej tlačiarne**. **Pozor**: Takýto účet nie je pre účely uzatvárania účtovných období považovaný za uzavretý. Pre uzavretie účtu je potrebné chybu tlače odstrániť a účet riadne uzavrieť.
 
-**Zaparkovaný \(5\)** – Účet s odloženou úhradou. Používateľ takýto účet vytvorí tým, že po kliknutí na ikonku **Peňazí** na otvorenom účte nezadá platbu, ale klikne na ikonku **Hodín**. Takýto účet je v zozname účtov označený „prázdnou“ ikonkou **Check**. V budúcnosti je taký účet možné pri prijatí platby štandardne uzavrieť, čím sa jeho stav zmení na **Uzavretý**.
+**Neuhradený \(5\)** – Účet s odloženou úhradou. Používateľ takýto účet vytvorí tým, že po kliknutí na ikonku **Peňazí** na otvorenom účte nezadá platbu, ale klikne na ikonku **Hodín**. Takýto účet je v zozname účtov označený „prázdnou“ ikonkou **Check**. V budúcnosti je taký účet možné pri prijatí platby štandardne uzavrieť, čím sa jeho stav zmení na **Uzavretý**.
 
 V zozname účtov sa Vám ikonka popisujúca stav účtu zobrazí vždy napravo.
 
