@@ -1,6 +1,6 @@
 ### Stoly a miestnosti
 
-Nastavenie stolov umožňuje vytvoriť si číselný alebo menný zoznam stolov vo Vašej prevádzke, ku ktorým potom v [režime otvorených účtov](#Otvorený) budete jednotlivé účty priraďovať.
+Nastavenie stolov umožňuje vytvoriť si číselný alebo menný zoznam stolov vo Vašej prevádzke, ku ktorým potom v [režime otvorených účtov](/stav-účtu.html) budete jednotlivé účty priraďovať.
 
 Kliknite na **Nastavenia** v pravom hornom rohu a následne vyberte možnosť **Stoly**. Cez ikonu **Plus** pridajte stôl, ktorý zároveň pomenujte \(Stôl 1, VIP 1...\).
 

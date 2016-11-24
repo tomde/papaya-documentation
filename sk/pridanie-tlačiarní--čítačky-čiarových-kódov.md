@@ -4,7 +4,7 @@ K Mini verzii môžete priamo pripojiť fiskálnu tlačiareň a čítačku čiar
 
 #### Pripojenie fiskálnej tlačiarne
 
-Z Papaya POS môžete tlačiť pokladničné bločky na jednu z podporovaných fiskálnych tlačiarní. Tlačiareň je možné pripojiť cez zdieľanú WiFi sieť, Bluetooth alebo USB port. Spôsob pripojenia závisí od typu tlačiarne, ktorý ste si vybrali – my Vám odporúčame zvoliť pripojenie cez WiFi sieť alebo Bluetooth, nakoľko [pripojenie cez USB port nemusí Vaše Android zariadenie podporovať](). Pripojenie cez USB tiež často využíva ten istý port ako nabíjanie Vášho Android zariadenia, čo môže byť v prevádzke problém.
+Z Papaya POS môžete tlačiť pokladničné bločky na jednu z podporovaných fiskálnych tlačiarní. Tlačiareň je možné pripojiť cez zdieľanú WiFi sieť, Bluetooth alebo USB port. Spôsob pripojenia závisí od typu tlačiarne, ktorý ste si vybrali – my Vám odporúčame zvoliť pripojenie cez WiFi sieť alebo Bluetooth, nakoľko [pripojenie cez USB port nemusí Vaše Android zariadenie podporovať]().  Pripojenie cez USB tiež často využíva ten istý port ako nabíjanie Vášho Android zariadenia, čo môže byť v prevádzke problém.
 
 Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
 
@@ -29,7 +29,7 @@ Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
 
 Pre pripojenie fiskálnej tlačiarne postupujte nasledovne:
 
-1. Zapojte tlačiareň do zdieľanej [WiFi](#_Pripojenie sieťovej tlačiarne \(WiFi\)_) siete alebo ju pripojte k Vášmu Android zariadeniu  cez [Bluetooth ](#_Pripojenie_Bluetooth_tlačiarne)alebo
+1. Zapojte tlačiareň do zdieľanej [WiFi](#pripojenie-sieťovej-tlačiarne-wifi) siete alebo ju pripojte k Vášmu Android zariadeniu  cez [Bluetooth ](#_Pripojenie_Bluetooth_tlačiarne)alebo
 
   [USB](#USB) port . V prípade tlačiarne využívajúcej pripojenie cez Bluetooth sa uistite, že [Bluetooth](#Bluetooth) je zapnutý na tlačiarni i na Android zariadení.
 
@@ -63,7 +63,7 @@ _Bluetooth tlačiareň pripojíte k Vášmu Android zariadeniu rovnako ako akék
 
 #### _Pripojenie USB tlačiarne_
 
-_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete _[****_USB OTG redukciu_****](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)_, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
+_Registračnú pokladnicu alebo fiskálnu tlačiareň pripojte pomocou USB kábla do Android zariadenia. Zvyčajne na to potrebujete _[******_USB OTG redukciu_******](http://www.integritytechnology.net/Y5U/USB-OTG-Adapter-3.jpg)_, no pozor! - nie všetky Android zariadenia ju podporujú. Bohužiaľ neexistuje jednotný zoznam všetkých Android zariadení, takže podporu OTG si musíte skontrolovať sami, alebo nám pošlite typ Vášho smartfónu\/tabletu a my Vám s tým pomôžeme._
 
 #### Súčasná legislatíva o fiskálnych tlačiarňach
 
@@ -88,9 +88,9 @@ Viac informácií o používaní elektronických registračných pokladníc [na 
 
 Cez Papayu je možné predávať aj pomocou čítačky čiarových kódov.
 
-Tip: Prečítajte si aj o [ostatných spôsoboch vyhľadávania](#_Vyhľadávanie_v_menu) menu položiek.
+Tip: Prečítajte si aj o [ostatných spôsoboch vyhľadávania](/vyhľadávanie-v-menu.html) menu položiek.
 
-Papaya podporuje mnoho typov čítačiek. Tie sa k Vášmu Android zariadeniu obvykle pripájajú pomocou Bluetooth alebo USB – kvôli pohodlnosti a častej nekompatibilite USB pripojenia s mnohými Android zariadení Vám však rozhodne odporúčame zvoliť si čítačku pripojiteľnú cez Bluetooth. V prípade, že máte záujem o pripojenie špecifického typu čítačky, kontaktujte [podporu Papaya pre overenie kompatibility](#Centra).
+Papaya podporuje mnoho typov čítačiek. Tie sa k Vášmu Android zariadeniu obvykle pripájajú pomocou Bluetooth alebo USB – kvôli pohodlnosti a častej nekompatibilite USB pripojenia s mnohými Android zariadení Vám však rozhodne odporúčame zvoliť si čítačku pripojiteľnú cez Bluetooth. V prípade, že máte záujem o pripojenie špecifického typu čítačky, kontaktujte [podporu Papaya pre overenie kompatibility](http://papayapos.com/cz/podpora/).
 
 Pripájanie čítačky k vášmu zariadeniu funguje podobne ako v prípade tlačiarní \(viď vyššie\). Na rozdiel od fiskálnej tlačiarne však čítačku nie je nutné vyhľadávať v **Nastaveniach** Papaye – používať ju môžete začať hneď, ako ju pripojíte k Vášmu tabletu \/ smartfónu.
 
