@@ -2,7 +2,7 @@
 
 Všetky uzavreté účty sú v Papayi archivované a detailné informácie o ich obsahu a histórii je možné kedykoľvek skontrolovať. Pre zobrazenie konkrétneho účtu je potrebné:
 
-1. Vyhľadať ho v [**Zozname účtov**](#_Stav_účtu).
+1. Vyhľadať ho v [Zozname účtov](/stav-účtu.html).
 
   ![](/assets/list 2.png)
 
