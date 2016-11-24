@@ -1,5 +1,3 @@
-                  ![](/_book/pictures/Papaya_color_white_bg.png)
-
 # Papaya POS Mini
 
 Dostala sa Vám do rúk **Užívateľská príručka systému \*\***[Papaya POS](http://www.papayapos.com/)**\*\* – verzia Mini**. Jej cieľom je poskytnúť používateľom – majiteľom, prevádzkarom či obsluhe reštaurácií a predajní – informácie o tom, ako Papayu správne nastaviť a používať.
