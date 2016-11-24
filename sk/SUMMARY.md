@@ -11,7 +11,7 @@
         * [Pridanie tlačiarní \/ čítačky čiarových kódov](pridanie-tlačiarní--čítačky-čiarových-kódov.md)
         * [Nastavenie režimu predaja](nastavenie-režimu-predaja.md)
         * [Stoly a miestnosti](stoly-a-miestnosti.md)
-        * [Nastavenie trhu \/ meny \/ jazyka](nastavenie-trhu--meny--jazyka.md)
+        * [Nastavenie trhu & meny \/ jazyka](nastavenie-trhu--meny--jazyka.md)
     * [Nastavenia predajného menu](nastavenia-predajného-menu.md)
         * [Vytvorenie novej menu kategórie \/ položky](vytvorenie-novej-menu-kategórie--položky.md)
         * [Úprava existujúcej menu kategórie \/ položky](úprava-existujúcej-menu-kategórie--položky.md)
