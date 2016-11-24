@@ -1,4 +1,4 @@
-## Otvorenie \/ uzatvorenie smeny
+## Otvorenie & uzatvorenie smeny
 
 #### Smena
 
@@ -27,6 +27,7 @@ Po ukončení smeny zamestnanec spravidla odovzdá prijatú hotovosť vedúcemu 
 
   * V zobrazenom dialógu potvrďte tlačidlo **Uzavrieť smenu**
     ![](/assets/smena.png)
+
 
 * Smenu je nutné uzavrieť **manuálne**. Tj, pokiaľ na konci dňa smena nebola uzavretá, účty zatvárané nasledujúci deň budú pripísané k tej istej smene.
 

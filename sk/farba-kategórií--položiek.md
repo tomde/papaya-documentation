@@ -1,4 +1,4 @@
-### Farba kategórií \/ položiek
+### Farba kategórií & položiek
 
 Farbu kategórií \/ položiek určujete pri ich [vytváraní](#_Vytvorenie_novej_menu), môžete to však kedykoľvek zmeniť v **Editácii menu**, kde si vybranú kategóriu \/ položku označíte, kliknete na ikonku **Palety **a farbu jednoducho zmeníte.
 

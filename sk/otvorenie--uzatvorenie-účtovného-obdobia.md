@@ -1,4 +1,4 @@
-## Otvorenie \/ uzatvorenie účtovného obdobia
+## Otvorenie & uzatvorenie účtovného obdobia
 
 #### Účtovné obdobie
 
@@ -23,6 +23,7 @@
   * Následne potvrďte tlačidlo **Uzavrieť účtovné obdobie**
 
     ![](/assets/obdobie.png)
+
 
 
 * Uzavretím účtovného obdobia sa uzavrú aj všetky smeny, ktoré do obdobia spadajú, ak ešte neboli uzatvorené samostatne.

@@ -1,4 +1,4 @@
-### Odstránenie menu kategórie \/ položky
+### Odstránenie menu kategórie & položky
 
 #### Trvalé odstránenie kategórie \/ položky
 

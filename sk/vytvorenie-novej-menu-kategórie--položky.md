@@ -1,4 +1,4 @@
-### Vytvorenie novej menu kategórie \/ položky
+### Vytvorenie novej menu kategórie & položky
 
 V **Editácii menu** kliknite na ikonku **Nová kategória** alebo **Nová položka** v hornej časti obrazovky. Zobrazí sa formulár.
 
@@ -10,7 +10,7 @@ Pri vytváraní novej kategórie je vo formulári potrebné iba:
 
 2. Nastaviť jej farbu – kliknite na ikonku **Palety** vedľa názvu kategórie a zvoľte farbu
 
-3. Po vyplnení kliknúť na ikonku **Potvrdiť** pre uloženie vykonaných zmien. 
+3. Po vyplnení kliknúť na ikonku **Potvrdiť** pre uloženie vykonaných zmien.
 
 
 ![](/assets/edit_category.png)
