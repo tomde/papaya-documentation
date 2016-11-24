@@ -4,7 +4,7 @@ Dostala sa Vám do rúk **Užívateľská príručka systému \*\***[Papaya POS]
 
 Papaya POS Mini je plnohodnotnou, modernou pokladňou, ktorá komunikuje s rôznymi druhmi fiskálnych tlačiarní. Poskytuje základnú funkcionalitu malým prevádzkam \(kaviarne, pekárne, sezónne stánky\), ktoré nevyžadujú evidenciu skladov či komplexné výkazy o predaji. Papaya POS Mini Vám priamo na Vašom tablete alebo smartfóne ponúka:
 
-* [správu menu položiek](http://docs.papayapos.sk/sk/editacia_menu/editacie_menu_na_tablete.html)
+* [správu menu položiek](/sk/nastavenia-predajného-menu.html)
 
 * [správu účtov](http://docs.papayapos.sk/sk/sprava_uctov/praca_s_uctom.html)
 
