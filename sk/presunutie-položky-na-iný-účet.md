@@ -1,6 +1,6 @@
 ### Presunutie položky na iný účet
 
-Presúvať položky medzi účtami môžete len v prípade [otvorených účtov](#Otvorený). Položky môžeme presúvať na nové, alebo existujúce účty.
+Presúvať položky medzi účtami môžete len v prípade [otvorených účtov](/stav-účtu.html). Položky môžeme presúvať na nové, alebo existujúce účty.
 
 **Pre presunutie položky na nový účet**:
 

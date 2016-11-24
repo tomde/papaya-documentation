@@ -2,7 +2,7 @@
 
 Tento spôsob vyhľadávania je určený primárne pre užívateľov, ktorí vlastnia čítačku čiarových kódov.
 
-Tip: Prečítajte si o tom, ako [pripojiť čítačku k tabletu\/mobilu](#_Pripojenie_čítačky_čiarových).
+Tip: Prečítajte si o tom, ako [pripojiť čítačku k tabletu\/mobilu](/pridanie-tlačiarn%C3%AD--č%C3%ADtačky-čiarových-kódov.html).
 
 * Pre vyhľadávanie pomocou čiarového kódu zvoľte ikonku **Čiarového kódu **v pravom dolnom rohu menu
 

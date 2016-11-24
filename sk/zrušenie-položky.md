@@ -1,6 +1,6 @@
 ### Zrušenie položky
 
-Položku na účte je možné zrušiť iba v prípade, ak sa nachádza na [otvorenom účte](http://docs.papayapos.sk/sk/sprava_uctov/praca_s_uctom.html#stav-tu).
+Položku na účte je možné zrušiť iba v prípade, ak sa nachádza na [otvorenom účte](/stav-účtu.html).
 
 1. Označte jednu alebo viacero položiek na účte, ktoré chcete zrušiť.
 
