@@ -29,9 +29,9 @@ Pri vytváraní novej položky je vo formulári potrebné:
 
 6. Nastaviť správnu hladinu DPH, ktorá sa na danú položku vzťahuje. Hladina DPH je dôležitá pre správnosť účtovania.
 
-7. Pridať [PLU kód](#_Zadaním_PLU_kódu) k položke. Toto nie je povinné nastavenie, ale má význam, ak PLU kódy vo Vašej prevádzke využívate.
+7. Pridať [PLU kód](/zadan%C3%ADm-plu-kódu.html) k položke. Toto nie je povinné nastavenie, ale má význam, ak PLU kódy vo Vašej prevádzke využívate.
 
-8. Pridať [čiarový kód](#_Načítaním_čiarového_kódu) k položke. Opäť nejde o povinné nastavenie – je dôležité v prípade, že vo Vašej prevádzke pre pridanie na účet využívate čítačku čiarových kódov.
+8. Pridať [čiarový kód](/nač%C3%ADtan%C3%ADm-čiarového-kódu.html) k položke. Opäť nejde o povinné nastavenie – je dôležité v prípade, že vo Vašej prevádzke pre pridanie na účet využívate čítačku čiarových kódov.
 
 9. Nastaviť receptúru, aby bolo pri predaji položky možné automaticky upraviť stav skladových zásob. Túto možnosť však Papaya POS ponúka iba vo verziách **Pro One** alebo **Pro Plus**, ktoré obsahujú i funkcionalitu riadenia skladových zásob.
 
