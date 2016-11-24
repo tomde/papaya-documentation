@@ -1,4 +1,4 @@
-# Úvod Papaya POS Mini
+# Papaya POS Mini
 
 
 
@@ -10,27 +10,27 @@ Papaya POS Mini je plnohodnotnou, modernou pokladňou, ktorá komunikuje s rôzn
 
 
 
-* [správu menu položiek](http://docs.papayapos.sk/sk/editacia_menu/editacie_menu_na_tablete.html)
+* [nastavenie predajného menu](/nastavenia-predajného-menu.html)
 
 
 
-* [správu účtov](http://docs.papayapos.sk/sk/sprava_uctov/praca_s_uctom.html)
+* [správu účtov](/práca-s-účtom.html)
 
 
 
-* [tlač pokladničných bločkov na fiskálnej tlačiarni](http://docs.papayapos.sk/sk/periferie/fiskalna_tlaciaren.html)
+* [tlač pokladničných bločkov na fiskálnej tlačiarni](/pridanie-tlačiarn%C3%AD--č%C3%ADtačky-čiarových-kódov.html)
 
 
 
-* [predaj pomocou vyhľadávania v menu či skenovania čiarových kódov](http://docs.papayapos.sk/sk/periferie/skener_ciarovych_kodov.html)
+* [predaj pomocou vyhľadávania v menu či skenovania čiarových kódov](/vyhľadávanie-v-menu.html)
 
 
 
-* [základný prehľad tržieb za jednotlivé smeny a účtovné obdobia](http://docs.papayapos.sk/sk/uctovne_obdobia_a_smeny/README.html)
+* [základný prehľad tržieb za jednotlivé smeny a účtovné obdobia](/prehľady.html)
 
 
 
-* [záloha dát na službu Papaya Cloud](http://docs.papayapos.sk/sk/zalohy_dat/README.html)
+* [záloha dát na službu Papaya Cloud](/zálohovanie-dát.html)
 
 
 
@@ -40,7 +40,7 @@ Papayu POS Mini môžete začať plnohodnotne používať hneď po jej inštalá
 
 
 
-Veríme, že v našej užívateľskej príručke nájdete odpovede na všetky Vaše otázky a že Vám Papaya poslúži k Vašej úplnej spokojnosti. Ak by ste si náhodou predsa len nevedeli rady, neváhajte sa na nás obrátiť prostredníctvom nášho [Centra zákazníckej podpory](#neváhajte):
+Veríme, že v našej užívateľskej príručke nájdete odpovede na všetky Vaše otázky a že Vám Papaya poslúži k Vašej úplnej spokojnosti. Ak by ste si náhodou predsa len nevedeli rady, neváhajte sa na nás obrátiť prostredníctvom nášho [Centra zákazníckej podpory](http://papayapos.com/cz/podpora/):
 
 
 
@@ -49,3 +49,9 @@ Veríme, že v našej užívateľskej príručke nájdete odpovede na všetky Va
 
 
 * Hotline: \(+421\) 905 904 533
+
+
+
+
+
+

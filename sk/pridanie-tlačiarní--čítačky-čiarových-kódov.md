@@ -4,7 +4,7 @@ K Mini verzii môžete priamo pripojiť fiskálnu tlačiareň a čítačku čiar
 
 #### Pripojenie fiskálnej tlačiarne
 
-Z Papaya POS môžete tlačiť pokladničné bločky na jednu z podporovaných fiskálnych tlačiarní. Tlačiareň je možné pripojiť cez zdieľanú WiFi sieť, Bluetooth alebo USB port. Spôsob pripojenia závisí od typu tlačiarne, ktorý ste si vybrali – my Vám odporúčame zvoliť pripojenie cez WiFi sieť alebo Bluetooth, nakoľko [pripojenie cez USB port nemusí Vaše Android zariadenie podporovať]().  Pripojenie cez USB tiež často využíva ten istý port ako nabíjanie Vášho Android zariadenia, čo môže byť v prevádzke problém.
+Z Papaya POS môžete tlačiť pokladničné bločky na jednu z podporovaných fiskálnych tlačiarní. Tlačiareň je možné pripojiť cez zdieľanú WiFi sieť, Bluetooth alebo USB port. Spôsob pripojenia závisí od typu tlačiarne, ktorý ste si vybrali – my Vám odporúčame zvoliť pripojenie cez WiFi sieť alebo Bluetooth, nakoľko pripojenie cez USB port nemusí Vaše Android zariadenie podporovať.  Pripojenie cez USB tiež často využíva ten istý port ako nabíjanie Vášho Android zariadenia, čo môže byť v prevádzke problém.
 
 Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
 

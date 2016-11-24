@@ -1,7 +1,6 @@
 # Summary
 
 * [Papaya POS](README.md)
-* [Papaya POS Mini](pos-mini.md)
 * [Inštalácia Papaya POS Mini](inštalácia-papaya-pos-mini.md)
     * [Stiahnutie a inštalácia](stiahnutie-a-inštalácia.md)
     * [Spustenie aplikácie](11----spustenie-aplikácie.md)
@@ -51,7 +50,4 @@
     * [Otvorenie \ uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
     * [Prehľady](prehľady.md)
 * [Zálohovanie dát](zálohovanie-dát.md)
-* [123456789012345678901234567890123456789012345678901234567890](test.md)
-    * 123456789012345678901234567890123456789012345678901234567890
-        * [123456789012345678901234567890123456789012345678901234567890](123456789012345678901234567890.md)
 
