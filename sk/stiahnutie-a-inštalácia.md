@@ -9,5 +9,5 @@ Papayu POS Mini si môžete stiahnuť a nainštalovať:
 * prostredníctvom APK súboru, ktorý Vám z Papaya POS zašleme spoločne s podrobnými inštrukciami pre inštaláciu.
 
 
-Proces inštalácie zvládnete úplne sami a zaberie Vám nanajvýš niekoľko minút – ak by ste narazili na akýkoľvek problém, [neváhajte sa na nás obrátiť](#Centra).
+Proces inštalácie zvládnete úplne sami a zaberie Vám nanajvýš niekoľko minút – ak by ste narazili na akýkoľvek problém, [neváhajte sa na nás obrátiť](http://papayapos.com/cz/podpora).
 

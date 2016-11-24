@@ -16,5 +16,5 @@ V prípade, že o vzorové menu nemáte záujem, pole pre vzorové dáta nezašk
 
 ![](/assets/4.png)
 
-O tom, ako si nastaviť vlastné menu, sa dočítate podrobne v kapitole [**3.2 Nastavenie predajného menu**](#_Nastavenia_predajného_menu)
+O tom, ako si nastaviť vlastné menu, sa dočítate podrobne v kapitole [Nastavenie predajného menu](/práca-s-položkami-na-účte.html)
 
