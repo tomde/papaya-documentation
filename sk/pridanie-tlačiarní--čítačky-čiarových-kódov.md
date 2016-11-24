@@ -29,9 +29,9 @@ Papaya POS momentálne podporuje nasledujúce modely fiskálnych tlačiarní:
 
 Pre pripojenie fiskálnej tlačiarne postupujte nasledovne:
 
-1. Zapojte tlačiareň do zdieľanej [WiFi](#pripojenie-sieťovej-tlačiarne-wifi) siete alebo ju pripojte k Vášmu Android zariadeniu  cez [Bluetooth ](#_Pripojenie_Bluetooth_tlačiarne)alebo
+1. Zapojte tlačiareň do zdieľanej [WiFi](#pripojenie-sieťovej-tlačiarne-wifi) siete alebo ju pripojte k Vášmu Android zariadeniu  cez [Bluetooth ](#pripojenie-bluetooth-tlačiarne)alebo
 
-  [USB](#USB) port . V prípade tlačiarne využívajúcej pripojenie cez Bluetooth sa uistite, že [Bluetooth](#Bluetooth) je zapnutý na tlačiarni i na Android zariadení.
+  [USB](#pripojenie-usb-tlačiarne) port . V prípade tlačiarne využívajúcej pripojenie cez Bluetooth sa uistite, že [Bluetooth](#pripojenie-bluetooth-tlačiarne) je zapnutý na tlačiarni i na Android zariadení.
 
 2. Otvorte obrazovku **Nastavenia &gt; Fiskálne tlačiarne**
 
