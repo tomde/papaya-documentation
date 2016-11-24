@@ -48,7 +48,10 @@
         * [Informácie o uzavretých účtoch](informácie-o-uzavretých-účtoch.md)
 * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
     * [Otvorenie \ uzatvorenie smeny](otvorenie--uzatvorenie-smeny.md)
-    * [Otvorenie \\ uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
+    * [Otvorenie \ uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
     * [Prehľady](prehľady.md)
 * [Zálohovanie dát](zálohovanie-dát.md)
+* [123456789012345678901234567890](test.md)
+    * 123456789012345678901234567890
+        * [123456789012345678901234567890](123456789012345678901234567890.md)
 
