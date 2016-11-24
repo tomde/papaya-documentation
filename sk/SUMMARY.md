@@ -1,14 +1,14 @@
 # Summary
 
 * [Papaya POS](README.md)
-* [Papaya POS Mini](pos-mini.md)
+* [Úvod Papaya POS Mini](pos-mini.md)
 * [Inštalácia Papaya POS Mini](inštalácia-papaya-pos-mini.md)
     * [Stiahnutie a inštalácia](stiahnutie-a-inštalácia.md)
     * [Spustenie aplikácie](11----spustenie-aplikácie.md)
 * [Nastavenie pred začatím používania](nastavenie-pred-začatím-používania.md)
     * [Základné nastavenia](základné-nastavenia.md)
         * [Informácie o prevádzke](informácie-o-prevádzke.md)
-        * [Pridanie tlačiarní \/ čítačky čiarových kódov](pridanie-tlačiarní--čítačky-čiarových-kódov.md)
+        * [Pridanie tlačiarní, čítačky, čiarových kódov](pridanie-tlačiarní--čítačky-čiarových-kódov.md)
         * [Nastavenie režimu predaja](nastavenie-režimu-predaja.md)
         * [Stoly a miestnosti](stoly-a-miestnosti.md)
         * [Nastavenie trhu & meny \/ jazyka](nastavenie-trhu--meny--jazyka.md)
@@ -47,8 +47,8 @@
         * [Vrátenie tovaru](vrátenie-tovaru.md)
         * [Informácie o uzavretých účtoch](informácie-o-uzavretých-účtoch.md)
 * [Účtovné obdobia a smeny](účtovné-obdobia-a-smeny.md)
-    * [Otvorenie \/ uzatvorenie smeny](otvorenie--uzatvorenie-smeny.md)
-    * [Otvorenie \/ uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
+    * [Otvorenie & uzatvorenie smeny](otvorenie--uzatvorenie-smeny.md)
+    * [Otvorenie\/uzatvorenie účtovného obdobia](otvorenie--uzatvorenie-účtovného-obdobia.md)
     * [Prehľady](prehľady.md)
 * [Zálohovanie dát](zálohovanie-dát.md)
 
