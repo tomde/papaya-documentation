@@ -1,7 +1,7 @@
 # Summary
 
 * [Papaya POS](README.md)
-* [Úvod Papaya POS Mini](pos-mini.md)
+* [Papaya POS Mini](pos-mini.md)
 * [Inštalácia Papaya POS Mini](inštalácia-papaya-pos-mini.md)
     * [Stiahnutie a inštalácia](stiahnutie-a-inštalácia.md)
     * [Spustenie aplikácie](11----spustenie-aplikácie.md)
