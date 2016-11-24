@@ -1,4 +1,4 @@
-### Pridanie tlačiarní \/ čítačky čiarových kódov
+### Pridanie tlačiarní, čítačky, čiarových kódov
 
 K Mini verzii môžete priamo pripojiť fiskálnu tlačiareň a čítačku čiarových kódov.
 
